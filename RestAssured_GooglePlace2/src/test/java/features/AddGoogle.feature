@@ -12,5 +12,6 @@ Examples:
 |name|language|address|
 |selvam|Tamil|Chennai|
 |mavles|French|Sholinganallur|
+|mavles|French|Sholinganallur|
 
 	
